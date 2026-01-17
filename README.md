@@ -1,4 +1,2 @@
-# rndproj-jsjut28q
-
-Random cpp project for notes.
-
+# rndproj-jsjut28q\n\nLanding page for a tiny product concept.\n
+New-FileDef
