@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-jsjut28q"",
-  ""goal"": ""dataset sampler for release notes"",
-  ""language"": ""node"",
-  ""template"": ""node-cli""
+    "name":  "rndproj-jsjut28q",
+    "goal":  "dataset sampler for release notes",
+    "language":  "node",
+    "template":  "node-cli"
 }
